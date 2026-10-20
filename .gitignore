@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.next-e2e/
+.frame-e2e-data/
+.next-desktop/
+desktop-staging/
+release/
+.desktop-test-data/
+desktop-test-results/
+.desktop-build-cache/
+data/
+.env*
+!.env.example
+*.tsbuildinfo
+test-results/
+playwright-report/
